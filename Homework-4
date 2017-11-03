@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>MENU</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a id="baslik" class="navbar-brand" href="#">Food,LLC</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="nav navbar-nav navbar-right">
+      <li class="nav-item">
+        <a class="nav-link" href="#"><br class="visible-xs"></i>Chicken</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#"><br class="visible-xs"></i>Beef</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#"><br class="visible-xs"></i>Sushi</a>
+      </li>
+    </ul>
+  </div>
+
+</nav>
+
+<div id="main-content" class="container">
+
+	<h1 id="ad">OUR MENU</h1>
+    
+    <div id="home-tiles" class="row">
+      <div class="col-md-4 col-sm-6 col-xs-12">
+   		<div id="menu-tile"><h1>Chicken</h1>
+        <p>The modern chicken is a descendant of red junglefowl hybrids along with the grey junglefowl first raised thousands of years ago in the northern parts of the Indian subcontinent.
+Chicken as a meat has been depicted in Babylonian carvings from around 600 BC. Chicken was one of the most common meats available in the Middle Ages. It was eaten over most of the Eastern hemisphere and a number of different kinds of chicken such as capons, pullets and hens were eaten. It was one of the basic ingredients in blancmange, a stew usually consisting of chicken and fried onions cooked in milk and seasoned with spices and sugar.
+In the United States in the 1800s, chicken was more expensive than other meats and it was "sought by the rich because it is so costly as to be an uncommon dish". Chicken consumption in the U.S. increased during World War II due to a shortage of beef and pork. In Europe, consumption of chicken overtook that of beef and veal in 1996, linked to consumer awareness of Bovine spongiform encephalopathy (mad cow disease). <a href="#top">Back to top</a> </p></div>
+      </div>
+      <div class="col-md-4 col-sm-6 col-xs-12">
+       	<div id="specials-tile"><h1>Beef</h1>
+        <p>Sushi originates in a Southeast Asian dish, known today as narezushi ("salted fish"), stored in fermented rice for possibly months at a time. The lacto-fermentation of the rice prevented the fish from spoiling; the rice would be discarded before consumption of the fish. This early type of sushi became an important source of protein for its Japanese consumers. The term sushi comes from an antiquated grammatical form no longer used in other contexts, and literally means "sour-tasting"; the overall dish has a sour and umami or savoury taste. Narezushi still exists as a regional specialty, notably as funa-zushi from Shiga Prefecture.
+
+Vinegar began to be added to the preparation of narezushi in the Muromachi period (1336–1573) for the sake of enhancing both taste and preservation. In addition to increasing the rice's sourness, the vinegar significantly increased the dish's longevity, causing the fermentation process to be shortened and eventually abandoned. The primitive sushi would be furthered developed in Osaka, where over several centuries it became oshi-zushi; in this preparation, the seafood and rice were pressed into shape with wooden (typically bamboo) molds.
+<a href="#top">Back to top</a>
+</p></div>
+      </div>
+         <div class="col-md-4 col-sm-12 col-xs-12">
+        <div id="map-tile"><h1>Sushi</h1>
+        <p>
+Beef is the culinary name for meat from cattle, particularly skeletal muscle. Humans have been eating beef since prehistoric times. Beef is a source of high-quality protein and essential nutrients.
+Beef skeletal muscle meat can be cut into roasts, short ribs or steak (filet mignon, sirloin steak, rump steak, rib steak, rib eye steak, hanger steak, etc.). Some cuts are processed (corned beef or beef jerky), and trimmings, usually mixed with meat from older, leaner cattle, are ground, minced or used in sausages. The blood is used in some varieties of blood sausage. Other parts that are eaten include other muscles and offal, such as the oxtail, liver, tongue, tripe from the reticulum or rumen, glands (particularly the pancreas and thymus, referred to as sweetbread), the heart, the brain (although forbidden where there is a danger of bovine spongiform encephalopathy, BSE), the kidneys, and the tender testicles of the bull (known in the United States as calf fries, prairie oysters, or Rocky Mountain oysters). Some intestines are cooked and eaten as-is, but are more often cleaned and used as natural sausage casings. The bones are used for making beef stock.<a href="#top">Back to top</a>
+</p>
+</div>
+      </div>
+  </div>
+     
+    </div><!-- End of #home-tiles -->
+
+
+
+  <!-- jQuery (Bootstrap JS plugins depend on it) -->
+  <script src="js/jquery-2.1.4.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/script.js"></script>
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+
+</body>
+<style type="text/css">
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #7E2217;
+  font-family: 'Oxygen', sans-serif;
+}
+
+#ad {
+  font-family: 'Lora', serif;
+  color: #557c3e;
+  font-size: 2.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+#baslik {
+	font-family: 'Lora', serif;
+	font-size: 3.0em;
+  	font-weight: bold;
+}
+ 
+/** HEADER **/
+#header-nav {
+  background-color: lightblue;
+  border-radius: 0;
+  border: 0;
+}
+
+
+.navbar-brand {
+  padding-top: 25px;
+}
+.navbar-brand h1 { /* Restaurant name */
+  font-family: 'Lora', serif;
+  color: #557c3e;
+  font-size: 2.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+.navbar-brand p { /* Kosher cert */
+  color: #000;
+  text-transform: uppercase;
+  font-size: .7em;
+  margin-top: 15px;
+}
+.navbar-brand p span { /* Star-K */
+  vertical-align: middle;
+}
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+/* END HEADER */
+
+/* FOOTER */
+.panel-footer {
+  margin-top: 30px;
+  padding-top: 35px;
+  padding-bottom: 30px;
+  background-color: #222;
+  border-top: 0;
+}
+.panel-footer div.row {
+  margin-bottom: 35px;
+}
+#testimonials {
+  font-style: italic;
+}
+#testimonials p:nth-child(2) {
+  margin-top: 25px;
+}
+/* END FOOTER */
+
+
+
+/* HOME PAGE */
+.container .jumbotron {
+  box-shadow: 0 0 50px #3F0C1F;
+  border: 2px solid #3F0C1F;
+}
+
+#menu-tile, #specials-tile, #map-tile {
+  height: 100%;
+  width: 100%;
+  margin-bottom: 15px;
+  position: relative;
+  border: 2px solid #3F0C1F;
+  overflow: hidden;
+}
+#menu-tile:hover, #specials-tile:hover, #map-tile:hover {
+  box-shadow: 0 1px 5px 1px #cccccc;
+}
+#menu-tile {
+  background-position: center;
+}
+#specials-tile {
+  background-position: center;
+}
+#menu-tile h1, #specials-tile h1, #map-tile h1 {
+
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  font-size: 1.6em;
+  text-transform: uppercase;
+  background-color: #000;
+  color: #fff;
+  opacity: .8;
+}
+
+/* END HOME PAGE */
+
+/********** Large devices only **********/
+@media (min-width: 1200px) {
+  .container .jumbotron {
+    height: 675px;
+  }
+}
+
+/********** Medium devices only **********/
+@media (min-width: 992px) and (max-width: 1199px) {
+  /* Header */
+  #logo-img {
+
+    width: 100px;
+    height: 100px;
+    margin: 5px 5px 5px 0;
+  }
+  /* End Header */
+
+  /* Home Page */
+  .container .jumbotron {
+
+    height: 558px;
+  }
+  /* End Home Page */
+}
+
+/********** Small devices only **********/
+@media (min-width: 768px) and (max-width: 991px) {
+  /* Home Page */
+  .container .jumbotron {
+    height: 432px;
+  }
+  /* End Home Page */
+}
+
+/********** Extra small devices only **********/
+@media (max-width: 767px) {
+  /* Header */
+  .navbar-brand {
+    padding-top: 10px;
+    height: 80px;
+  }
+  .navbar-brand h1 { /* Restaurant name */
+    padding-top: 10px;
+    font-size: 5vw; /* 1vw = 1% of viewport width */
+  }
+  .navbar-brand p { /* Kosher cert */
+    font-size: .6em;
+    margin-top: 12px;
+  }
+  .navbar-brand p img { /* Star-K */
+    height: 20px;
+  }
+
+  #collapsable-nav a { /* Collapsed nav menu text */
+    font-size: 1.2em;
+  }
+  #collapsable-nav a span { /* Collapsed nav menu glyph */
+    font-size: 1em;
+    margin-right: 5px;
+  }
+  #xs-deliver {
+    margin-top: 5px;
+    font-size: .7em;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+  }
+  /* End Header */
+
+  /* Footer */
+  .panel-footer section {
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  .panel-footer section:nth-child(3) {
+    margin-bottom: 0; /* margin already exists on the whole row */
+  }
+  .panel-footer section hr {
+    width: 50%;
+  }
+  /* End Footer */
+
+  /* Home Page */
+  .container .jumbotron {
+    margin-top: 30px;
+    padding: 0;
+  }
+  #menu-tile, #specials-tile {
+    width: 360px;
+    margin: 0 auto 15px;
+  }
+}
+
+
+/********** Super extra small devices Only :-) (e.g., iPhone 4) **********/
+@media (max-width: 479px) {
+  /* Header */
+  .navbar-brand h1 { /* Restaurant name */
+    padding-top: 5px;
+    font-size: 6vw;
+  }
+  /* End Header */
+  
+  /* Home page */
+  #menu-tile, #specials-tile {
+    width: 280px;
+    margin: 0 auto 15px;
+  }
+}
+
+
+</style>
+</html>
